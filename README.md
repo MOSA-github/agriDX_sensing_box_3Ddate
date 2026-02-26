@@ -1,0 +1,2 @@
+# agriDX_sensing_box_3Ddate
+農業DXのセンシングボックス3Dデータ
